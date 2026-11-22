@@ -11,9 +11,10 @@ Huoshi Studio（火狮工作室）开发的桌面角色陪伴程序，当前已�
  <br>
 1 可拖动位置 （长按即可调整位置）:
 <div align="left"><img src="demo/nacho_desktop1.png" width="500" /></div>
+<br>
 2 鼠标右键选项:
 <div align="left"><img src="demo/nacho_desktop2.png" width="500" /></div>
-
+<br>
 - 可在Release下载exe可执行文件
 - 仅支持 Windows 11 系统
 
