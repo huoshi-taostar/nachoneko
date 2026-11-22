@@ -7,6 +7,10 @@ Huoshi Studio（火狮工作室）开发的桌面角色陪伴程序，当前已�
 
 - GitHub 项目，后续计划添加更多角色。
 
+- 展示：
+<div align="center"><img src="demo/nacho_desktop1.png" width="300" /></div>
+<div align="center"><img src="demo/nacho_desktop2.png" width="300" /></div>
+
 - 可在Release下载exe可执行文件
 - 仅支持 Windows 11 系统
 
